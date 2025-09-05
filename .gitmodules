@@ -1,0 +1,12 @@
+[submodule "Student-Score-Prediction"]
+	path = Student-Score-Prediction
+	url = https://github.com/AmrKhaled05/Student-Score-Prediction.git
+[submodule "Loan-Approval-Prediction"]
+	path = Loan-Approval-Prediction
+	url = https://github.com/AmrKhaled05/Loan-Approval-Prediction.git
+[submodule "Forest-Cover-Type-Classification"]
+	path = Forest-Cover-Type-Classification
+	url = https://github.com/AmrKhaled05/Forest-Cover-Type-Classification.git
+[submodule "Customer-Segmentation"]
+	path = Customer-Segmentation
+	url = https://github.com/AmrKhaled05/Customer-Segmentation.git
