@@ -1,1 +1,1 @@
-# Machine-Learning-Internships-Tasks
+# Machine-Learning-Internship-Tasks
